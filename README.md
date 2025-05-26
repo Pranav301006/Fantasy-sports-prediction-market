@@ -96,5 +96,10 @@ Additional utility functions support market management, reward calculation, and 
 4. Start predicting and winning!
 
 ---
+##Remix link 
+Remix address:0x2EFCae96cA02D73142f8c26899e4523310C5D094
+
+##transaction 
+![image](https://github.com/user-attachments/assets/f065bd5b-906e-4d90-9be1-3b3cf2ef5227)
 
 *This project is built with Solidity ^0.8.19 and is designed for deployment on Ethereum and compatible networks.*
