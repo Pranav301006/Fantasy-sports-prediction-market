@@ -9,7 +9,7 @@ The platform operates on a peer-to-peer betting model where all stakes are poole
 
 ## Project Vision
 
-Our vision is to revolutionize fantasy sports betting by:
+Our vision is to revolutionize fantasy sports betting by :
 
 - **Decentralization**: Eliminating centralized bookmakers and giving users full control over their predictions
 - **Transparency**: All transactions and outcomes are recorded on the blockchain for complete transparency
