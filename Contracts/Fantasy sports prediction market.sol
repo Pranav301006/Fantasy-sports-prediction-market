@@ -138,11 +138,7 @@ contract FantasySportsPredictionMarket {
         emit PredictionMade(_marketId, msg.sender, _outcome, msg.value);
     }
     
-    /**
-     * @dev Resolves a market with the actual outcome and distributes rewards
-     * @param _marketId ID of the market to resolve
-     * @param _result The actual outcome of the match
-     */
+   
     function resolveMarket(uint256 _marketId, Outcome _result) 
         external 
         onlyOwner 
