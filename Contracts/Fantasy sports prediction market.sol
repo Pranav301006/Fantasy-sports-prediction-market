@@ -57,14 +57,7 @@ contract FantasySportsPredictionMarket {
         owner = msg.sender;
         marketCounter = 0;
     }
-    
-    /**
-     * @dev Creates a new prediction market for a fantasy sports match
-     * @param _description Description of the match/event
-     * @param _teamA Name of team A
-     * @param _teamB Name of team B
-     * @param _durationHours Duration in hours from now when market closes
-     */
+
     function createMarket(
         string memory _description,
         string memory _teamA,
