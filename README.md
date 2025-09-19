@@ -1,5 +1,5 @@
 # Fantasy-sports-prediction-market
-# Fantasy Sports Prediction Market
+# Fantasy Sports Prediction-Market
 
 ## Project Description
 
