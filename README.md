@@ -88,6 +88,7 @@ The main contract `FantasySportsPredictionMarket.sol` includes three core functi
 
 Additional utility functions support market management, reward calculation, and user interaction.
 
+
 ## Getting Started
 
 1. Deploy the smart contract to Ethereum network
