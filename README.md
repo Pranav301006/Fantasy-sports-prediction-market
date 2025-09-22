@@ -5,6 +5,7 @@
 
 The Fantasy Sports Prediction Market is a decentralized smart contract platform built on Ethereum that enables users to create and participate in prediction markets for fantasy sports events. Users can stake cryptocurrency on their predictions about match outcomes (Team A wins, Team B wins, or Draw) and earn rewards based on the accuracy of their predictions.
 
+
 The platform operates on a peer-to-peer betting model where all stakes are pooled together, and winners share the total pool proportionally to their stake amounts, minus a small platform fee for maintenance and development.
 
 ## Project Vision
