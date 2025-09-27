@@ -105,3 +105,4 @@ Additional utility functions support market management, reward calculation, and 
 
 *This project is built with Solidity ^0.8.19 and is designed for deployment on Ethereum and compatible networks.*
 
+
